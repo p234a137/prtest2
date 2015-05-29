@@ -1,0 +1,368 @@
+Date,Round,Visitor,Visitor Score,Home Team,Home Score,Line,Total Line
+12/24/1978,WC,Houston Oilers,17,Miami Dolphins,9,6.5, 
+12/24/1978,WC,Philadelphia Eagles,13,Atlanta Falcons,14,2.5, 
+12/30/1978,DP,Atlanta Falcons,20,Dallas Cowboys,27,15, 
+12/30/1978,DP,Denver Broncos,10,Pittsburgh Steelers,33,7, 
+12/31/1978,DP,Houston Oilers,31,New England Patriots,14,6, 
+12/31/1978,DP,Minnesota Vikings,10,Los Angeles Rams,34,7.5, 
+01/07/1979,CC,Dallas Cowboys,28,Los Angeles Rams,0,-3.5, 
+01/07/1979,CC,Houston Oilers,5,Pittsburgh Steelers,34,7, 
+01/21/1979,SB,Dallas Cowboys,31,Pittsburgh Steelers,35,3.5, 
+12/23/1979,WC,Chicago Bears,17,Philadelphia Eagles,27,6.5, 
+12/23/1979,WC,Denver Broncos,7,Houston Oilers,13,7, 
+12/29/1979,DP,Houston Oilers,17,San Diego Chargers,14,8, 
+12/29/1979,DP,Philadelphia Eagles,17,Tampa Bay Buccaneers,24,-4.5, 
+12/30/1979,DP,Miami Dolphins,14,Pittsburgh Steelers,34,9.5, 
+12/30/1979,DP,Los Angeles Rams,21,Dallas Cowboys,19,8.5, 
+01/06/1980,CC,Houston Oilers,13,Pittsburgh Steelers,27,9.5, 
+01/06/1980,CC,Los Angeles Rams,9,Tampa Bay Buccaneers,0,-3.5, 
+01/20/1980,SB,Pittsburgh Steelers,31,Los Angeles Rams,19,-10, 
+12/28/1980,WC,Houston Oilers,7,Oakland Raiders,27,-1, 
+12/28/1980,WC,Los Angeles Rams,13,Dallas Cowboys,34,3, 
+01/03/1981,DP,Buffalo Bills,14,San Diego Chargers,20,6, 
+01/03/1981,DP,Minnesota Vikings,16,Philadelphia Eagles,31,7, 
+01/04/1981,DP,Dallas Cowboys,30,Atlanta Falcons,27,2.5, 
+01/04/1981,DP,Oakland Raiders,14,Cleveland Browns,12,3.5, 
+01/11/1981,CC,Dallas Cowboys,7,Philadelphia Eagles,20,-1, 
+01/11/1981,CC,Oakland Raiders,34,San Diego Chargers,27,4, 
+01/25/1981,SB,Philadelphia Eagles,10,Oakland Raiders,27,-3, 
+12/27/1981,WC,Buffalo Bills,31,New York Jets,27,3, 
+12/27/1981,WC,New York Giants,27,Philadelphia Eagles,21,7, 
+01/02/1982,DP,San Diego Chargers,41,Miami Dolphins,38,-2.5, 
+01/02/1982,DP,Tampa Bay Buccaneers,0,Dallas Cowboys,38,8, 
+01/03/1982,DP,Buffalo Bills,21,Cincinnati Bengals,28,6, 
+01/03/1982,DP,New York Giants,24,San Francisco 49ers,38,6, 
+01/10/1982,CC,Dallas Cowboys,27,San Francisco 49ers,28,-3, 
+01/10/1982,CC,San Diego Chargers,7,Cincinnati Bengals,27,4.5, 
+01/24/1982,SB,Cincinnati Bengals,21,San Francisco 49ers,26,1, 
+01/08/1983,WC,Cleveland Browns,10,Los Angeles Raiders,27,8.5, 
+01/08/1983,WC,Detroit Lions,7,Washington Redskins,31,6, 
+01/08/1983,WC,New England Patriots,13,Miami Dolphins,28,7.5, 
+01/08/1983,WC,St Louis Cardinals,16,Green Bay Packers,41,4.5, 
+01/09/1983,WC,Atlanta Falcons,24,Minnesota Vikings,30,2, 
+01/09/1983,WC,New York Jets,44,Cincinnati Bengals,17,4, 
+01/09/1983,WC,San Diego Chargers,31,Pittsburgh Steelers,28,1, 
+01/09/1983,WC,Tampa Bay Buccaneers,17,Dallas Cowboys,30,8, 
+01/15/1983,DP,Minnesota Vikings,7,Washington Redskins,21,6, 
+01/15/1983,DP,New York Jets,17,Los Angeles Raiders,14,3.5, 
+01/16/1983,DP,Green Bay Packers,26,Dallas Cowboys,37,7, 
+01/16/1983,DP,San Diego Chargers,13,Miami Dolphins,34,-1.5, 
+01/22/1983,CC,Dallas Cowboys,17,Washington Redskins,31,-2, 
+01/23/1983,CC,New York Jets,0,Miami Dolphins,14,1, 
+01/30/1983,SB,Washington Redskins,27,Miami Dolphins,17,3, 
+12/24/1983,WC,Denver Broncos,7,Seattle Seahawks,31,3.5, 
+12/26/1983,WC,Los Angeles Rams,24,Dallas Cowboys,17,8, 
+12/31/1983,DP,Detroit Lions,23,San Francisco 49ers,24,7.5, 
+12/31/1983,DP,Seattle Seahawks,27,Miami Dolphins,20,8, 
+01/01/1984,DP,Pittsburgh Steelers,10,Los Angeles Raiders,38,7, 
+01/01/1984,DP,Los Angeles Rams,7,Washington Redskins,51,9.5, 
+01/08/1984,CC,Seattle Seahawks,14,Los Angeles Raiders,30,7, 
+01/08/1984,CC,San Francisco 49ers,21,Washington Redskins,24,10, 
+01/22/1984,SB,Los Angeles Raiders,38,Washington Redskins,9,2, 
+12/22/1984,WC,Los Angeles Raiders,7,Seattle Seahawks,13,-1.5, 
+12/23/1984,WC,New York Giants,16,Los Angeles Rams,13,4.5, 
+12/29/1984,DP,New York Giants,10,San Francisco 49ers,21,12, 
+12/29/1984,DP,Seattle Seahawks,10,Miami Dolphins,31,5.5, 
+12/30/1984,DP,Chicago Bears,23,Washington Redskins,19,9, 
+12/30/1984,DP,Pittsburgh Steelers,24,Denver Broncos,17,4.5, 
+01/06/1985,CC,Chicago Bears,0,San Francisco 49ers,23,10, 
+01/06/1985,CC,Pittsburgh Steelers,28,Miami Dolphins,45,10, 
+01/20/1985,SB,Miami Dolphins,16,San Francisco 49ers,38,3, 
+12/29/1985,WC,New England Patriots,26,New York Jets,14,3, 
+12/29/1985,WC,San Francisco 49ers,3,New York Giants,17,-3, 
+01/04/1986,DP,Cleveland Browns,21,Miami Dolphins,24,10.5, 
+01/04/1986,DP,Dallas Cowboys,0,Los Angeles Rams,20,2, 
+01/05/1986,DP,New England Patriots,27,Los Angeles Raiders,20,5.5, 
+01/05/1986,DP,New York Giants,0,Chicago Bears,21,9, 
+01/12/1986,CC,New England Patriots,31,Miami Dolphins,14,5.5, 
+01/12/1986,CC,Los Angeles Rams,0,Chicago Bears,24,10.5, 
+01/26/1986,SB,New England Patriots,10,Chicago Bears,46,10, 
+12/28/1986,WC,Kansas City Chiefs,15,New York Jets,35,3,39
+12/28/1986,WC,Los Angeles Rams,7,Washington Redskins,19,4.5,40
+01/03/1987,DP,New York Jets,20,Cleveland Browns,23,7,41
+01/03/1987,DP,Washington Redskins,27,Chicago Bears,13,7,34
+01/04/1987,DP,New England Patriots,17,Denver Broncos,22,4,43
+01/04/1987,DP,San Francisco 49ers,3,New York Giants,49,3,39
+01/11/1987,CC,Denver Broncos,23,Cleveland Browns,20,3,38
+01/11/1987,CC,Washington Redskins,0,New York Giants,17,7,38
+01/25/1987,SB,Denver Broncos,20,New York Giants,39,9,41
+01/03/1988,WC,Minnesota Vikings,44,New Orleans Saints,10,6.5,46
+01/03/1988,WC,Seattle Seahawks,20,Houston Oilers,23,-2.5,45
+01/09/1988,DP,Indianapolis Colts,21,Cleveland Browns,38,8,37
+01/09/1988,DP,Minnesota Vikings,36,San Francisco 49ers,24,11,47
+01/10/1988,DP,Houston Oilers,10,Denver Broncos,34,10,46
+01/10/1988,DP,Washington Redskins,21,Chicago Bears,17,4.5,38
+01/17/1988,CC,Cleveland Browns,33,Denver Broncos,38,3,45
+01/17/1988,CC,Minnesota Vikings,10,Washington Redskins,17,3,45
+01/31/1988,SB,Washington Redskins,42,Denver Broncos,10,3.5,47
+12/24/1988,WC,Houston Oilers,24,Cleveland Browns,23,3,38
+12/26/1988,WC,Los Angeles Rams,17,Minnesota Vikings,28,5.5,42
+12/31/1988,DP,Philadelphia Eagles,12,Chicago Bears,20,5.5,38
+12/31/1988,DP,Seattle Seahawks,13,Cincinnati Bengals,21,6.5,46
+01/01/1989,DP,Houston Oilers,10,Buffalo Bills,17,3.5,37
+01/01/1989,DP,Minnesota Vikings,9,San Francisco 49ers,34,3.5,44
+01/08/1989,CC,Buffalo Bills,10,Cincinnati Bengals,21,4,41
+01/08/1989,CC,San Francisco 49ers,28,Chicago Bears,3,-2,35
+01/22/1989,SB,Cincinnati Bengals,16,San Francisco 49ers,20,6,46
+12/31/1989,WC,Pittsburgh Steelers,26,Houston Oilers,23,7,43
+12/31/1989,WC,Los Angeles Rams,21,Philadelphia Eagles,7,3,39
+01/06/1990,DP,Buffalo Bills,30,Cleveland Browns,34,3.5,36
+01/06/1990,DP,Minnesota Vikings,13,San Francisco 49ers,41,7.5,44
+01/07/1990,DP,Pittsburgh Steelers,23,Denver Broncos,24,10,38
+01/07/1990,DP,Los Angeles Rams,19,New York Giants,13,3,39
+01/13/1990,CC,Cleveland Browns,21,Denver Broncos,37,3.5,40
+01/13/1990,CC,Los Angeles Rams,3,San Francisco 49ers,30,7,46
+01/27/1990,SB,Denver Broncos,10,San Francisco 49ers,55,13,48
+01/05/1991,WC,Kansas City Chiefs,16,Miami Dolphins,17,2.5,41
+01/05/1991,WC,Washington Redskins,20,Philadelphia Eagles,6,4.5,40
+01/06/1991,WC,Houston Oilers,14,Cincinnati Bengals,41,3.5,42
+01/06/1991,WC,New Orleans Saints,6,Chicago Bears,16,6.5,32
+01/12/1991,DP,Miami Dolphins,34,Buffalo Bills,44,7,34
+01/12/1991,DP,Washington Redskins,10,San Francisco 49ers,28,8,41
+01/13/1991,DP,Chicago Bears,3,New York Giants,31,7,33
+01/13/1991,DP,Cincinnati Bengals,10,Los Angeles Raiders,20,6,43
+01/20/1991,CC,New York Giants,15,San Francisco 49ers,13,8,37
+01/20/1991,CC,Los Angeles Raiders,3,Buffalo Bills,51,7,37
+01/27/1991,SB,New York Giants,20,Buffalo Bills,19,6.5,40
+12/28/1991,WC,Atlanta Falcons,27,New Orleans Saints,20,6,39
+12/28/1991,WC,Los Angeles Raiders,6,Kansas City Chiefs,10,5,36
+12/29/1991,WC,Dallas Cowboys,17,Chicago Bears,13,3,37
+12/29/1991,WC,New York Jets,10,Houston Oilers,17,9,44
+01/04/1992,DP,Atlanta Falcons,7,Washington Redskins,24,11.5,43
+01/04/1992,DP,Houston Oilers,24,Denver Broncos,26,3.5,37
+01/05/1992,DP,Dallas Cowboys,6,Detroit Lions,38,0,43
+01/05/1992,DP,Kansas City Chiefs,14,Buffalo Bills,37,10.5,41
+01/12/1992,CC,Denver Broncos,7,Buffalo Bills,10,12,46
+01/12/1992,CC,Detroit Lions,10,Washington Redskins,41,14,43
+01/26/1992,SB,Buffalo Bills,24,Washington Redskins,37,7,48
+01/02/1993,WC,Kansas City Chiefs,0,San Diego Chargers,17,3,37
+01/02/1993,WC,Washington Redskins,24,Minnesota Vikings,7,3.5,37
+01/03/1993,WC,Houston Oilers,38,Buffalo Bills,41,2,37
+01/03/1993,WC,Philadelphia Eagles,36,New Orleans Saints,20,3.5,35
+01/09/1993,DP,Buffalo Bills,24,Pittsburgh Steelers,3,2,36
+01/09/1993,DP,Washington Redskins,13,San Francisco 49ers,20,9.5,39
+01/10/1993,DP,Philadelphia Eagles,10,Dallas Cowboys,34,6.5,38
+01/10/1993,DP,San Diego Chargers,0,Miami Dolphins,31,2,37
+01/17/1993,CC,Buffalo Bills,29,Miami Dolphins,10,-2.5,41
+01/17/1993,CC,Dallas Cowboys,30,San Francisco 49ers,20,4,37
+01/31/1993,SB,Buffalo Bills,17,Dallas Cowboys,52,6.5,45
+01/08/1994,WC,Green Bay Packers,28,Detroit Lions,24,1.5,38.5
+01/08/1994,WC,Pittsburgh Steelers,24,Kansas City Chiefs,27,7.5,36
+01/09/1994,WC,Denver Broncos,24,Los Angeles Raiders,42,2,41
+01/09/1994,WC,Minnesota Vikings,10,New York Giants,17,6.5,33
+01/15/1994,DP,New York Giants,3,San Francisco 49ers,44,8,41.5
+01/15/1994,DP,Los Angeles Raiders,23,Buffalo Bills,29,7,33.5
+01/16/1994,DP,Green Bay Packers,17,Dallas Cowboys,27,13.5,42
+01/16/1994,DP,Kansas City Chiefs,28,Houston Oilers,20,7,41.5
+01/23/1994,CC,Kansas City Chiefs,13,Buffalo Bills,30,3,39
+01/23/1994,CC,San Francisco 49ers,21,Dallas Cowboys,38,3,48
+01/30/1994,SB,Buffalo Bills,13,Dallas Cowboys,30,10.5,50
+12/31/1994,WC,Detroit Lions,12,Green Bay Packers,16,4.5,40
+12/31/1994,WC,Kansas City Chiefs,17,Miami Dolphins,27,3,45
+01/01/1995,WC,Chicago Bears,35,Minnesota Vikings,18,6,38
+01/01/1995,WC,New England Patriots,13,Cleveland Browns,20,3,35.5
+01/07/1995,DP,Chicago Bears,15,San Francisco 49ers,44,15.5,46.5
+01/07/1995,DP,Cleveland Browns,9,Pittsburgh Steelers,29,3.5,32.5
+01/08/1995,DP,Green Bay Packers,9,Dallas Cowboys,35,10,43
+01/08/1995,DP,Miami Dolphins,21,San Diego Chargers,22,3,46
+01/15/1995,CC,Dallas Cowboys,28,San Francisco 49ers,38,7,48
+01/15/1995,CC,San Diego Chargers,17,Pittsburgh Steelers,13,6,35
+01/29/1995,SB,San Diego Chargers,26,San Francisco 49ers,49,19,52
+12/30/1995,WC,Miami Dolphins,22,Buffalo Bills,37,3.5,42.5
+12/30/1995,WC,Detroit Lions,37,Philadelphia Eagles,58,-3,42
+12/31/1995,WC,Atlanta Falcons,20,Green Bay Packers,37,9.5,44
+12/31/1995,WC,Indianapolis Colts,35,San Diego Chargers,20,5.5,40
+01/06/1996,DP,Buffalo Bills,21,Pittsburgh Steelers,40,6,42
+01/06/1996,DP,Green Bay Packers,27,San Francisco 49ers,17,9.5,52
+01/07/1996,DP,Philadelphia Eagles,11,Dallas Cowboys,30,13.5,45.5
+01/07/1996,DP,Indianapolis Colts,10,Kansas City Chiefs,7,8,41.5
+01/14/1996,CC,Indianapolis Colts,16,Pittsburgh Steelers,20,11,43
+01/14/1996,CC,Green Bay Packers,27,Dallas Cowboys,38,9,50.5
+01/28/1996,SB,Pittsburgh Steelers,17,Dallas Cowboys,27,13.5,51
+12/28/1996,WC,Jacksonville Jaguars,30,Buffalo Bills,27,8.5,38
+12/28/1996,WC,Minnesota Vikings,15,Dallas Cowboys,40,10,40
+12/29/1996,WC,Indianapolis Colts,14,Pittsburgh Steelers,42,8,37
+12/29/1996,WC,Philadelphia Eagles,0,San Francisco 49ers,14,10.5,42
+01/04/1997,DP,San Francisco 49ers,14,Green Bay Packers,35,5,41.5
+01/04/1997,DP,Jacksonville Jaguars,30,Denver Broncos,27,12.5,43.5
+01/05/1997,DP,Pittsburgh Steelers,3,New England Patriots,28,3,41.5
+01/05/1997,DP,Dallas Cowboys,17,Carolina Panthers,26,-3.5,37.5
+01/12/1997,CC,Carolina Panthers,13,Green Bay Packers,30,12,39
+01/12/1997,CC,Jacksonville Jaguars,6,New England Patriots,20,7.5,44
+01/26/1997,SB,New England Patriots,21,Green Bay Packers,35,14,52
+12/27/1997,WC,Minnesota Vikings,23,New York Giants,22,4.5,38
+12/27/1997,WC,Jacksonville Jaguars,17,Denver Broncos,42,6.5,45.5
+12/28/1997,WC,Miami Dolphins,3,New England Patriots,17,5,41.5
+12/28/1997,WC,Detroit Lions,10,Tampa Bay Buccaneers,20,3,38.5
+01/03/1998,DP,New England Patriots,6,Pittsburgh Steelers,7,6,42
+01/03/1998,DP,Minnesota Vikings,22,San Francisco 49ers,38,11.5,42
+01/04/1998,DP,Tampa Bay Buccaneers,7,Green Bay Packers,21,13,38
+01/04/1998,DP,Denver Broncos,14,Kansas City Chiefs,10,0,41
+01/11/1998,CC,Denver Broncos,24,Pittsburgh Steelers,21,1,41
+01/11/1998,CC,Green Bay Packers,23,San Francisco 49ers,10,-1.5,43.5
+01/25/1998,SB,Denver Broncos,31,Green Bay Packers,24,11,50
+01/02/1999,WC,Buffalo Bills,17,Miami Dolphins,24,2.5,43
+01/02/1999,WC,Arizona Cardinals,20,Dallas Cowboys,7,7,42
+01/03/1999,WC,New England Patriots,10,Jacksonville Jaguars,25,8.5,41
+01/03/1999,WC,Green Bay Packers,27,San Francisco 49ers,30,3,49.5
+01/09/1999,DP,San Francisco 49ers,18,Atlanta Falcons,20,3.5,53
+01/09/1999,DP,Miami Dolphins,3,Denver Broncos,38,13.5,48
+01/10/1999,DP,Jacksonville Jaguars,24,New York Jets,34,9,43
+01/10/1999,DP,Arizona Cardinals,21,Minnesota Vikings,41,16.5,52.5
+01/17/1999,CC,Atlanta Falcons,30,Minnesota Vikings,27,11,55.5
+01/17/1999,CC,New York Jets,10,Denver Broncos,23,9,50.5
+01/31/1999,SB,Atlanta Falcons,19,Denver Broncos,34,7.5,52
+01/08/2000,WC,Buffalo Bills,16,Tennessee Titans,22,5,39
+01/08/2000,WC,Detroit Lions,13,Washington Redskins,27,6,46
+01/09/2000,WC,Dallas Cowboys,10,Minnesota Vikings,27,7,46.5
+01/09/2000,WC,Miami Dolphins,20,Seattle Seahawks,17,3.5,39
+01/15/2000,DP,Miami Dolphins,7,Jacksonville Jaguars,62,8,37.5
+01/15/2000,DP,Washington Redskins,13,Tampa Bay Buccaneers,14,4.5,38
+01/16/2000,DP,Minnesota Vikings,37,St Louis Rams,49,7,52
+01/16/2000,DP,Tennessee Titans,19,Indianapolis Colts,16,5.5,46.5
+01/23/2000,CC,Tennessee Titans,33,Jacksonville Jaguars,14,7,39.5
+01/23/2000,CC,Tampa Bay Buccaneers,6,St Louis Rams,11,14,46
+01/30/2000,SB,Tennessee Titans,16,St Louis Rams,23,7,48
+12/30/2000,WC,Indianapolis Colts,17,Miami Dolphins,23,-1.5,42
+12/30/2000,WC,St Louis Rams,28,New Orleans Saints,31,-5.5,55
+12/31/2000,WC,Denver Broncos,3,Baltimore Ravens,21,3.5,41
+12/31/2000,WC,Tampa Bay Buccaneers,3,Philadelphia Eagles,21,-3,34
+01/06/2001,DP,New Orleans Saints,16,Minnesota Vikings,34,8,49.5
+01/06/2001,DP,Miami Dolphins,0,Oakland Raiders,27,9,42
+01/07/2001,DP,Baltimore Ravens,24,Tennessee Titans,10,6,34
+01/07/2001,DP,Philadelphia Eagles,10,New York Giants,20,4.5,33.5
+01/14/2001,CC,Minnesota Vikings,0,New York Giants,41,-1,41.5
+01/14/2001,CC,Baltimore Ravens,16,Oakland Raiders,3,6,38
+01/28/2001,SB,New York Giants,7,Baltimore Ravens,34,3,33
+01/12/2002,WC,Tampa Bay Buccaneers,9,Philadelphia Eagles,31,3.5,33
+01/12/2002,WC,New York Jets,24,Oakland Raiders,38,4.5,42
+01/13/2002,WC,San Francisco 49ers,15,Green Bay Packers,25,3.5,39
+01/13/2002,WC,Baltimore Ravens,20,Miami Dolphins,3,2.5,33
+01/19/2002,DP,Philadelphia Eagles,33,Chicago Bears,19,3,32.5
+01/19/2002,DP,Oakland Raiders,13,New England Patriots,16,3,41.5
+01/20/2002,DP,Baltimore Ravens,10,Pittsburgh Steelers,27,5.5,32
+01/20/2002,DP,Green Bay Packers,17,St Louis Rams,45,11,54.5
+01/27/2002,CC,New England Patriots,24,Pittsburgh Steelers,17,10,35.5
+01/27/2002,CC,Philadelphia Eagles,24,St Louis Rams,29,11,51
+02/03/2002,SB,New England Patriots,20,St Louis Rams,17,14,52.5
+01/04/2003,WC,Indianapolis Colts,0,New York Jets,41,6,42
+01/04/2003,WC,Atlanta Falcons,27,Green Bay Packers,7,6.5,40.5
+01/05/2003,WC,Cleveland Browns,33,Pittsburgh Steelers,36,8,43
+01/05/2003,WC,New York Giants,38,San Francisco 49ers,39,3,41
+01/11/2003,DP,Pittsburgh Steelers,31,Tennessee Titans,34,4.5,44
+01/11/2003,DP,Atlanta Falcons,6,Philadelphia Eagles,20,7.5,38.5
+01/12/2003,DP,San Francisco 49ers,6,Tampa Bay Buccaneers,31,6,39.5
+01/12/2003,DP,New York Jets,10,Oakland Raiders,30,5.5,47
+01/19/2003,CC,Tampa Bay Buccaneers,27,Philadelphia Eagles,10,4,33.5
+01/19/2003,CC,Tennessee Titans,24,Oakland Raiders,41,9,46
+01/26/2003,SB,Tampa Bay Buccaneers,48,Oakland Raiders,21,3.5,44
+01/03/2004,WC,Tennessee Titans,20,Baltimore Ravens,17,-1,38
+01/03/2004,WC,Dallas Cowboys,10,Carolina Panthers,29,3,34
+01/04/2004,WC,Seattle Seahawks,27,Green Bay Packers,33,7.5,43.5
+01/04/2004,WC,Denver Broncos,10,Indianapolis Colts,41,3,49
+01/10/2004,DP,Carolina Panthers,29,St Louis Rams,23,7,46
+01/10/2004,DP,Tennessee Titans,14,New England Patriots,17,6,34
+01/11/2004,DP,Indianapolis Colts,38,Kansas City Chiefs,31,3,53
+01/11/2004,DP,Green Bay Packers,17,Philadelphia Eagles,20,4,43
+01/18/2004,CC,Indianapolis Colts,14,New England Patriots,24,3.5,42
+01/18/2004,CC,Carolina Panthers,14,Philadelphia Eagles,3,4,36.5
+02/01/2004,SB,Carolina Panthers,29,New England Patriots,32,7,38
+01/08/2005,WC,St Louis Rams,27,Seattle Seahawks,20,4,51
+01/08/2005,WC,New York Jets,20,San Diego Chargers,17,6.5,42.5
+01/09/2005,WC,Denver Broncos,24,Indianapolis Colts,49,10,56
+01/09/2005,WC,Minnesota Vikings,31,Green Bay Packers,17,6,52.5
+01/15/2005,DP,New York Jets,17,Pittsburgh Steelers,20,9,35.5
+01/15/2005,DP,St Louis Rams,17,Atlanta Falcons,47,6.5,49
+01/16/2005,DP,Minnesota Vikings,14,Philadelphia Eagles,27,8,47
+01/16/2005,DP,Indianapolis Colts,3,New England Patriots,20,1,51
+01/23/2005,CC,Atlanta Falcons,10,Philadelphia Eagles,27,6,37
+01/23/2005,CC,New England Patriots,41,Pittsburgh Steelers,27,-3,36.5
+02/06/2005,SB,New England Patriots,24,Philadelphia Eagles,21,-7,47
+01/07/2006,WC,Washington Redskins,17,Tampa Bay Buccaneers,10,2.5,37.5
+01/07/2006,WC,Jacksonville Jaguars,3,New England Patriots,28,8,37.5
+01/08/2006,WC,Carolina Panthers,23,New York Giants,0,3,43.5
+01/08/2006,WC,Pittsburgh Steelers,31,Cincinnati Bengals,17,-3,44
+01/14/2006,DP,Washington Redskins,10,Seattle Seahawks,20,8.5,41
+01/14/2006,DP,New England Patriots,13,Denver Broncos,27,3,44
+01/15/2006,DP,Pittsburgh Steelers,21,Indianapolis Colts,18,8.5,46.5
+01/15/2006,DP,Carolina Panthers,29,Chicago Bears,21,3,31
+01/22/2006,CC,Pittsburgh Steelers,34,Denver Broncos,17,3.5,41
+01/22/2006,CC,Carolina Panthers,14,Seattle Seahawks,34,5.5,43
+02/05/2006,SB,Seattle Seahawks,10,Pittsburgh Steelers,21,4,47
+01/06/2007,WC,Kansas City Chiefs,8,Indianapolis Colts,23,6.5,51
+01/06/2007,WC,Dallas Cowboys,20,Seattle Seahawks,21,2,48.5
+01/07/2007,WC,New York Jets,16,New England Patriots,37,9,38.5
+01/07/2007,WC,New York Giants,20,Philadelphia Eagles,23,6,46.5
+01/13/2007,DP,Indianapolis Colts,15,Baltimore Ravens,6,4,41
+01/13/2007,DP,Philadelphia Eagles,24,New Orleans Saints,27,4.5,48.5
+01/14/2007,DP,Seattle Seahawks,24,Chicago Bears,27,8.5,37.5
+01/14/2007,DP,New England Patriots,24,San Diego Chargers,21,5,46.5
+01/21/2007,CC,New Orleans Saints,14,Chicago Bears,39,3,43
+01/21/2007,CC,New England Patriots,34,Indianapolis Colts,38,3,47
+02/04/2007,SB,Chicago Bears,17,Indianapolis Colts,29,6.5,47
+01/05/2008,WC,Washington Redskins,14,Seattle Seahawks,35,3.5,38.5
+01/05/2008,WC,Jacksonville Jaguars,31,Pittsburgh Steelers,29,-2.5,40
+01/06/2008,WC,New York Giants,24,Tampa Bay Buccaneers,14,3,39.5
+01/06/2008,WC,Tennessee Titans,6,San Diego Chargers,17,10,39
+01/12/2008,DP,Seattle Seahawks,20,Green Bay Packers,42,7.5,44
+01/12/2008,DP,Jacksonville Jaguars,20,New England Patriots,31,13.5,51.5
+01/13/2008,DP,San Diego Chargers,28,Indianapolis Colts,24,11,47
+01/13/2008,DP,New York Giants,21,Dallas Cowboys,17,7,47.5
+01/20/2008,CC,San Diego Chargers,12,New England Patriots,21,14,48
+01/20/2008,CC,New York Giants,23,Green Bay Packers,20,7.5,41.5
+02/03/2008,SB,New York Giants,17,New England Patriots,14,12.5,54.5
+01/03/2009,WC,Atlanta Falcons,24,Arizona Cardinals,30,2,52
+01/03/2009,WC,Indianapolis Colts,17,San Diego Chargers,23,-2.5,50
+01/04/2009,WC,Baltimore Ravens,27,Miami Dolphins,9,-3.5,38
+01/04/2009,WC,Philadelphia Eagles,26,Minnesota Vikings,14,-3.5,41
+01/10/2009,DP,Baltimore Ravens,13,Tennessee Titans,10,3,33.5
+01/10/2009,DP,Arizona Cardinals,33,Carolina Panthers,13,10,49.5
+01/11/2009,DP,Philadelphia Eagles,23,New York Giants,11,4,39
+01/11/2009,DP,San Diego Chargers,24,Pittsburgh Steelers,35,6.5,38.5
+01/18/2009,CC,Philadelphia Eagles,25,Arizona Cardinals,32,-3.5,47
+01/18/2009,CC,Baltimore Ravens,14,Pittsburgh Steelers,23,6,35.5
+02/01/2009,SB,Pittsburgh Steelers,27,Arizona Cardinals,23,-6.5,46.5
+01/09/2010,New York Jets,24,Cincinnati Bengals,14,2.5,34.5
+01/09/2010,Philadelphia Eagles,14,Dallas Cowboys,34,3.5,46
+01/10/2010,Baltimore Ravens,33,New England Patriots,14,4,44
+01/10/2010,Green Bay Packers,45,Arizona Cardinals,51,-2.5,48
+01/16/2010,Arizona Cardinals,14,New Orleans Saints,45,7,57
+01/16/2010,Baltimore Ravens,3,Indianapolis Colts,20,6.5,44
+01/17/2010,Dallas Cowboys,3,Minnesota Vikings,34,2.5,45
+01/17/2010,New York Jets,17,San Diego Chargers,14,9,42.5
+01/24/2010,New York Jets,17,Indianapolis Colts,30,8.5,40.5
+01/24/2010,Minnesota Vikings,28,New Orleans Saints,31,3.5,54
+02/07/2010,New Orleans Saints,31,Indianapolis Colts,17,4.5,56.5
+01/08/2011,New Orleans Saints,36,Seattle Seahawks,41,-10,46
+01/08/2011,New York Jets,17,Indianapolis Colts,16,2,44.5
+01/09/2011,Baltimore Ravens,30,Kansas City Chiefs,7,-3,41
+01/09/2011,Green Bay Packers,21,Philadelphia Eagles,16,2.5,47
+01/15/2011,Baltimore Ravens,24,Pittsburgh Steelers,31,3,37
+01/15/2011,Green Bay Packers,48,Atlanta Falcons,21,1.5,43.5
+01/16/2011,Seattle Seahawks,24,Chicago Bears,35,10,43
+01/16/2011,New York Jets,28,New England Patriots,21,9.5,45
+01/23/2011,Green Bay Packers,21,Chicago Bears,14,-3.5,42.5
+01/23/2011,New York Jets,19,Pittsburgh Steelers,24,4,38
+02/06/2011,Pittsburgh Steelers,25,Green Bay Packers,31,3,45
+01/07/2012,Cincinnati Bengals,10,Houston Texans,31,4,38
+01/07/2012,Detroit Lions,28,New Orleans Saints,45,10.5,60
+01/08/2012,Atlanta Falcons,2,New York Giants,24,3,48
+01/08/2012,Pittsburgh Steelers,23,Denver Broncos,29,-7.5,34
+01/14/2012,New Orleans Saints,32,San Francisco 49ers,36,-3.5,47
+01/14/2012,Denver Broncos,10,New England Patriots,45,13.5,50
+01/15/2012,Houston Texans,13,Baltimore Ravens,20,8,37.5
+01/15/2012,New York Giants,37,Green Bay Packers,20,8,54.5
+01/22/2012,Baltimore Ravens,20,New England Patriots,23,7,50
+01/22/2012,New York Giants,20,San Francisco 49ers,17,2,41.5
+02/05/2012,New York Giants,21,New England Patriots,17,3,53.5
+01/05/2013,Cincinnati Bengals,13,Houston Texans,19,4,42.5
+01/05/2013,Minnesota Vikings,10,Green Bay Packers,24,11,44.5
+01/06/2013,Indianapolis Colts,9,Baltimore Ravens,24,7,47
+01/06/2013,Seattle Seahawks,24,Washington Redskins,14,-3,45
+01/12/2013,Baltimore Ravens,38,Denver Broncos,35,9,44.5
+01/12/2013,Green Bay Packers,31,San Francisco 49ers,45,3,45.5
+01/13/2013,Seattle Seahawks,28,Atlanta Falcons,30,3,47
+01/13/2013,Houston Texans,28,New England Patriots,41,9.5,51
+01/20/2013,San Francisco 49ers,28,Atlanta Falcons,24,-4.5,49
+01/20/2013,Baltimore Ravens,28,New England Patriots,13,7.5,51.5
+02/03/2013,Baltimore Ravens,34,San Francisco 49ers,31,4.5,48

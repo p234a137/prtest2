@@ -1,0 +1,15 @@
+
+I used R for problem #2
+
+By looking at the distribution of Home.Score and Visitor.Score, we can see that, in general, the home team has an advantage. This can be observed both on the mean and the median.
+
+> summary(regular$Home.Score)
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+    0.0    14.0    21.0    22.2    28.0    62.0 
+> summary(regular$Visitor.Score)
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+   0.00   13.00   19.00   19.44   27.00   59.00 
+
+I built a z test statistics using the Home.Wins distribution calculated as the difference of Home.Score and Visitor.Score. The null hypothesis is that the mean of the distribution is less or equal to zero. The alternative hypothesis, which we are after is that the mean is significantly above zero, i.e. the home team has an advantage.
+
+After discovering a typoo in my formula for the z-statistics, the p-value calculated for the upper tail test using the resulting z value of 17.04239 , is pval = 1.990632e-65. This value allows us to exlude with very great confidence the null hypothesis, hence prove that home teams have an advantage over visiting teams.
